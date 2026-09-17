@@ -1,12 +1,19 @@
-<p><sub>WEB · MOBILE · AI</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" alt="Daud Tariq — web, mobile and AI" width="900">
+</picture>
 
-# Daud Tariq
+<p align="center">
+  <strong>Associate Software Engineer · Lahore, Pakistan</strong><br>
+  Building scalable web, mobile, and AI-powered products.
+</p>
 
-**Associate Software Engineer · Lahore, Pakistan**
-
-Building scalable web, mobile, and AI-powered products—from reusable interfaces to the APIs behind them.
-
-[GitHub](https://github.com/daud4653) · [LinkedIn](https://linkedin.com/in/daud-tariq)
+<p align="center">
+  <a href="https://linkedin.com/in/daud-tariq"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="124" height="36"></a>
+  &nbsp;
+  <a href="https://github.com/daud4653"><img src="assets/github.svg" alt="Explore my GitHub" width="124" height="36"></a>
+</p>
 
 [About](#01--about) · [Stack](#02--stack) · [Experience](#03--experience) · [Projects](#04--selected-projects) · [Activity](#05--github-activity)
 
@@ -19,6 +26,15 @@ I'm a Computer Science graduate with **2+ years of experience** building product
 I care about scalable frontend architecture, reusable components, and developer tooling that makes shipping and maintaining products easier.
 
 ## 02 — Stack
+
+<p>
+  <img src="assets/icons/react.svg" alt="React" title="React" width="42" height="42"> &nbsp;
+  <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42"> &nbsp;
+  <img src="assets/icons/nextjs.svg" alt="Next.js" title="Next.js" width="42" height="42"> &nbsp;
+  <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="42" height="42"> &nbsp;
+  <img src="assets/icons/python.svg" alt="Python" title="Python" width="42" height="42"> &nbsp;
+  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42">
+</p>
 
 <p>
 <strong>Frontend</strong> · React / Next.js / TypeScript / JavaScript<br>
@@ -145,3 +161,5 @@ The contribution animation uses [Platane/snk](https://github.com/Platane/snk). B
 Let's talk about web, mobile, or AI product engineering.
 
 [LinkedIn ↗](https://linkedin.com/in/daud-tariq) · [GitHub ↗](https://github.com/daud4653)
+
+<img src="assets/footer.svg" alt="" width="900">

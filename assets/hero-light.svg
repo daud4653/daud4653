@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+<title id="title">Daud Tariq — web, mobile and AI</title>
+<desc id="desc">A lavender and teal wave banner with a code window illustration.</desc>
+<defs><clipPath id="frame"><rect width="900" height="260" rx="18"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="900" height="260" fill="#f1effb"/>
+<circle cx="865" cy="5" r="150" fill="#7560b9" opacity=".07"/>
+<path d="M0 218C180 167 328 280 552 215S780 190 900 203V260H0Z" fill="#7560b9" opacity=".14"/>
+<path d="M0 243C197 189 360 286 592 228S800 230 900 219V260H0Z" fill="#188a83" opacity=".13"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="42" y="60" fill="#7560b9" font-size="18" letter-spacing="3" font-weight="600">WEB / MOBILE / AI</text>
+<text x="38" y="140" fill="#282444" font-size="70" font-weight="700" letter-spacing="-2">Daud Tariq<tspan fill="#188a83">.</tspan></text>
+<text x="42" y="181" fill="#625d7c" font-size="21">Thoughtful interfaces. Production systems.</text>
+</g>
+<g transform="translate(614 46)">
+<rect width="238" height="155" rx="12" fill="#ffffff" stroke="#d6d1e9"/>
+<path d="M0 35H238" stroke="#d6d1e9"/>
+<circle cx="19" cy="18" r="4" fill="#7560b9"/><circle cx="33" cy="18" r="4" fill="#188a83"/><circle cx="47" cy="18" r="4" fill="#625d7c" opacity=".5"/>
+<path d="M45 66L26 84L45 102M82 66L101 84L82 102M70 58L57 110" fill="none" stroke="#7560b9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M129 70H205M129 84H180M129 98H194" stroke="#188a83" opacity=".8" stroke-width="5" stroke-linecap="round"/>
+<path d="M26 131H121M136 131H205" stroke="#d6d1e9" stroke-width="5" stroke-linecap="round"/>
+</g></g></svg>
