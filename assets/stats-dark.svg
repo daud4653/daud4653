@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="276" viewBox="0 0 480 276" role="img" aria-labelledby="title desc">
+<title id="title">Public GitHub snapshot</title>
+<desc id="desc">Owned public repositories, excluding forks. Languages counted by repository primary language, not code volume or proficiency.</desc>
+<rect x="0.5" y="0.5" width="479" height="275" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+<text x="24" y="36" fill="#79c0ff" font-size="14" font-weight="600">PUBLIC GITHUB SNAPSHOT</text>
+<text x="24" y="64" fill="#b1bac4" font-size="13" font-weight="400">Updated 2026-09-17 07:42 UTC</text>
+<text x="24" y="110" fill="#f0f6fc" font-size="30" font-weight="600">7</text>
+<text x="244" y="110" fill="#f0f6fc" font-size="30" font-weight="600">0</text>
+<text x="24" y="137" fill="#b1bac4" font-size="15" font-weight="400">Repositories</text>
+<text x="244" y="137" fill="#b1bac4" font-size="15" font-weight="400">Stars received</text>
+<path d="M24 158H456" stroke="#30363d"/>
+<text x="24" y="187" fill="#f0f6fc" font-size="16" font-weight="600">Primary languages</text>
+<text x="24" y="210" fill="#b1bac4" font-size="13" font-weight="400">Top five · number of repositories</text>
+<text x="24" y="242" fill="#f0f6fc" font-size="15" font-weight="400">JavaScript</text>
+<rect x="220" y="232" width="180" height="6" rx="3" fill="#30363d"/>
+<rect x="220" y="232" width="154.29" height="6" rx="3" fill="#79c0ff"/>
+<text x="422" y="242" fill="#b1bac4" font-size="15" font-weight="400">6</text>
+</g></svg>
