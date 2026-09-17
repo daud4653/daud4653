@@ -1,16 +1,147 @@
-## Hi there 👋
+<p><sub>WEB · MOBILE · AI</sub></p>
 
-<!--
-**daud4653/daud4653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Daud Tariq
 
-Here are some ideas to get you started:
+**Associate Software Engineer · Lahore, Pakistan**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable web, mobile, and AI-powered products—from reusable interfaces to the APIs behind them.
+
+[GitHub](https://github.com/daud4653) · [LinkedIn](https://linkedin.com/in/daud-tariq)
+
+[About](#01--about) · [Stack](#02--stack) · [Experience](#03--experience) · [Projects](#04--selected-projects) · [Activity](#05--github-activity)
+
+---
+
+## 01 — About
+
+I'm a Computer Science graduate with **2+ years of experience** building production web and mobile applications across **real estate, fintech, and AI**. My strongest foundation is the React and TypeScript ecosystem, with work spanning backend APIs, database-backed systems, and AI integrations.
+
+I care about scalable frontend architecture, reusable components, and developer tooling that makes shipping and maintaining products easier.
+
+## 02 — Stack
+
+<p>
+<strong>Frontend</strong> · React / Next.js / TypeScript / JavaScript<br>
+<strong>Mobile</strong> · React Native<br>
+<strong>Backend</strong> · Node.js / Java / Spring Boot / Python / FastAPI / Flask<br>
+<strong>Databases</strong> · PostgreSQL / MongoDB / MySQL / SQL<br>
+<strong>AI</strong> · OpenAI API / Anthropic API / ElevenLabs / TensorFlow / MCP<br>
+<strong>Tools</strong> · Git / GitHub Actions
+</p>
+
+<details>
+<summary>More in my toolkit</summary>
+
+Tailwind CSS, Redux / RTK Query, Prisma, Supabase, AWS, and C++. I use the stack that fits the product, with particular interest in component systems, automation, and the Model Context Protocol (MCP).
+
+</details>
+
+## 03 — Experience
+
+### Dubizzle Labs
+**Associate Software Engineer · Current**
+
+Building web and mobile experiences across the Bayut, Dubizzle, and OLX product ecosystem. My work spans **MyZameen.com with Next.js**, Zameen and Bayut member areas with React, **Jarvis CRM with React Native**, and CarForce for Dubizzle Cars operations. Shared component libraries and automated chatbot experiences connect this work across products.
+
+### CloudCard Inc
+**Associate Software Engineer · Previously**
+
+Worked on **Banking-as-a-Service systems**, payment integrations, and microservices. Built React SDKs and Java REST APIs backed by PostgreSQL, including integrations with Fiserv and Real-Time Payments.
+
+## 04 — Selected projects
+
+### Brainite
+**AI knowledge infrastructure**
+
+A B2B SaaS platform that extracts structured decision logic from Slack, Notion, GitHub, Jira, and Zendesk, making organizational knowledge available to AI agents through MCP.
+
+<sub>React · TypeScript · PostgreSQL · FastAPI · Anthropic API · MCP</sub>
+
+<details>
+<summary>Architecture &amp; engineering</summary>
+
+- Multi-tenant architecture with PostgreSQL row-level security.
+- Authentication APIs and database-backed knowledge access.
+- AI agent integrations through the Model Context Protocol.
+
+</details>
+
+---
+
+### AI-Powered Training Simulator
+**Interactive voice-led training**
+
+A full-stack training simulator built for a US-based public-safety client. AI voice agents power interactive training experiences and client-facing application features. **Client identity is confidential under NDA.**
+
+<sub>Next.js · TypeScript · Vercel · ElevenLabs · OpenAI · Anthropic</sub>
+
+<details>
+<summary>Application &amp; integrations</summary>
+
+- Interactive training flows built around AI voice agents.
+- Full-stack Next.js development and client-facing functionality.
+- Voice and language-model integrations for training experiences.
+
+</details>
+
+---
+
+### [AiForensics](https://github.com/daud4653/AiForensics-A-DeepFake-Content-Detection-System)
+**Deepfake detection across images, audio, and video**
+
+A full-stack AI platform that brings detection workflows, authentication, analytics, and an AI chatbot into a single application.
+
+<sub>Python · FastAPI · Node.js / Express · React · MongoDB · TensorFlow</sub>
+
+<details>
+<summary>Models &amp; application layers</summary>
+
+- EfficientNet / ViT and LSTM-based approaches for deepfake detection.
+- React frontend and Node/Express backend with authentication.
+- Detection workflows supported by analytics and an AI chatbot.
+
+</details>
+
+## 05 — GitHub activity
+
+Public work at a glance. These repository statistics complement the production work described above.
+
+<a href="https://github.com/daud4653?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daud4653/daud4653/output/assets/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daud4653/daud4653/output/assets/stats-light.svg">
+    <img alt="Public repository and language statistics — generated by the profile activity workflow" src="https://raw.githubusercontent.com/daud4653/daud4653/output/assets/stats-light.svg" width="480">
+  </picture>
+</a>
+
+<details>
+<summary>Watch the contribution graph</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daud4653/daud4653/output/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daud4653/daud4653/output/assets/snake-light.svg">
+  <img alt="Animated snake tracing my GitHub contribution graph" src="https://raw.githubusercontent.com/daud4653/daud4653/output/assets/snake-light.svg" width="840">
+</picture>
+
+[Explore my contributions on GitHub](https://github.com/daud4653?tab=overview)
+
+</details>
+
+<details>
+<summary>How these visuals stay current</summary>
+
+GitHub Actions regenerates the light and dark SVGs every six hours and publishes them to the `output` branch. Statistics cover owned, public, non-fork repositories; languages are counted by each repository's primary language, not lines of code or proficiency. The snapshot date is shown on the card.
+
+The contribution animation uses [Platane/snk](https://github.com/Platane/snk). Both visuals update on a schedule or a manual workflow run; commits in other repositories do not directly trigger this profile workflow.
+
+</details>
+
+---
+
+<sub>BS Computer Science · FAST National University of Computer and Emerging Sciences (FAST-NUCES)</sub>
+
+## Connect
+
+Let's talk about web, mobile, or AI product engineering.
+
+[LinkedIn ↗](https://linkedin.com/in/daud-tariq) · [GitHub ↗](https://github.com/daud4653)
