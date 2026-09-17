@@ -27,30 +27,68 @@ I care about scalable frontend architecture, reusable components, and developer 
 
 ## 02 — Stack
 
-<p>
-  <img src="assets/icons/react.svg" alt="React" title="React" width="42" height="42"> &nbsp;
-  <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42"> &nbsp;
-  <img src="assets/icons/nextjs.svg" alt="Next.js" title="Next.js" width="42" height="42"> &nbsp;
-  <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="42" height="42"> &nbsp;
-  <img src="assets/icons/python.svg" alt="Python" title="Python" width="42" height="42"> &nbsp;
-  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42">
-</p>
+**Frontend**
 
 <p>
-<strong>Frontend</strong> · React / Next.js / TypeScript / JavaScript<br>
-<strong>Mobile</strong> · React Native<br>
-<strong>Backend</strong> · Node.js / Java / Spring Boot / Python / FastAPI / Flask<br>
-<strong>Databases</strong> · PostgreSQL / MongoDB / MySQL / SQL<br>
-<strong>AI</strong> · OpenAI API / Anthropic API / ElevenLabs / TensorFlow / MCP<br>
-<strong>Tools</strong> · Git / GitHub Actions
+  <img src="assets/icons/react.svg" alt="React" title="React" width="88" height="76">
+  <img src="assets/icons/nextjs.svg" alt="Next.js" title="Next.js" width="88" height="76">
+  <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="88" height="76">
+  <img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="88" height="76">
+  <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="88" height="76">
+  <img src="assets/icons/redux.svg" alt="Redux / RTK" title="Redux / RTK" width="88" height="76">
 </p>
 
-<details>
-<summary>More in my toolkit</summary>
+**Mobile**
 
-Tailwind CSS, Redux / RTK Query, Prisma, Supabase, AWS, and C++. I use the stack that fits the product, with particular interest in component systems, automation, and the Model Context Protocol (MCP).
+<p>
+  <img src="assets/icons/react-native.svg" alt="React Native" title="React Native" width="88" height="76">
+</p>
 
-</details>
+**Backend & languages**
+
+<p>
+  <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="88" height="76">
+  <img src="assets/icons/java.svg" alt="Java" title="Java" width="88" height="76">
+  <img src="assets/icons/spring.svg" alt="Spring Boot" title="Spring Boot" width="88" height="76">
+  <img src="assets/icons/python.svg" alt="Python" title="Python" width="88" height="76">
+  <img src="assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="88" height="76">
+  <img src="assets/icons/flask.svg" alt="Flask" title="Flask" width="88" height="76">
+  <img src="assets/icons/express.svg" alt="Express" title="Express" width="88" height="76">
+  <img src="assets/icons/cplusplus.svg" alt="C++" title="C++" width="88" height="76">
+</p>
+
+**Databases & data tooling**
+
+<p>
+  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="88" height="76">
+  <img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="88" height="76">
+  <img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="88" height="76">
+  <img src="assets/icons/sql.svg" alt="SQL" title="SQL" width="88" height="76">
+  <img src="assets/icons/prisma.svg" alt="Prisma" title="Prisma" width="88" height="76">
+  <img src="assets/icons/supabase.svg" alt="Supabase" title="Supabase" width="88" height="76">
+</p>
+
+**AI & integrations**
+
+<p>
+  <img src="assets/icons/openai.svg" alt="OpenAI API" title="OpenAI API" width="88" height="76">
+  <img src="assets/icons/claude.svg" alt="Claude" title="Claude" width="88" height="76">
+  <img src="assets/icons/anthropic.svg" alt="Anthropic API" title="Anthropic API" width="88" height="76">
+  <img src="assets/icons/elevenlabs.svg" alt="ElevenLabs" title="ElevenLabs" width="88" height="76">
+  <img src="assets/icons/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="88" height="76">
+  <img src="assets/icons/mcp.svg" alt="MCP" title="MCP" width="88" height="76">
+</p>
+
+**Tools & cloud**
+
+<p>
+  <img src="assets/icons/git.svg" alt="Git" title="Git" width="88" height="76">
+  <img src="assets/icons/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="88" height="76">
+  <img src="assets/icons/amazonwebservices.svg" alt="AWS" title="AWS" width="88" height="76">
+  <img src="assets/icons/vercel.svg" alt="Vercel" title="Vercel" width="88" height="76">
+</p>
+
+<sub>Redux / RTK includes RTK Query · MCP = Model Context Protocol</sub>
 
 ## 03 — Experience
 

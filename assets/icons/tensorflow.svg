@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="76" viewBox="0 0 88 76" role="img" aria-label="TensorFlow">
+<title>TensorFlow</title>
+<rect x=".5" y=".5" width="87" height="75" rx="12" fill="#f5f3fa" stroke="#dfdbe9"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="26" y="12" width="36" height="36" color="#263445">
+  <path d="m61.55 128-21.84-12.68V40.55L6.81 59.56l.08-28.32L61.55 0zM66.46 0v128l21.84-12.68V79.31l16.49 9.53-.1-24.63-16.39-9.36v-14.3l32.89 19.01-.08-28.32z" fill="#ff6f00" />
+</svg>
+<text x="44" y="64" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#393249">TensorFlow</text>
+</svg>
